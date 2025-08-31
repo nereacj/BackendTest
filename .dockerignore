@@ -1,0 +1,30 @@
+# Archivos de Maven
+target/
+!target/*.jar
+
+# Archivos de IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Git
+.git/
+.gitignore
+
+# Archivos de Docker
+Dockerfile
+.dockerignore
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp 
