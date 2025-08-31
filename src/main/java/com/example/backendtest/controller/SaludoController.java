@@ -15,6 +15,6 @@ public class SaludoController {
     
     @GetMapping("/saludo/personalizado")
     public String saludoPersonalizado() {
-        return "¡Saludos desde el endpoint personalizado! La aplicación está funcionando perfectamente.";
+        return "Aupa!!¡Saludos desde el endpoint personalizado! La aplicación está funcionando perfectamente.";
     }
 } 
